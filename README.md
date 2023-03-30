@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PhillRob
-- 👀 I’m interested in the difference between natural and programming language, cultural evolution and off course pistachios. 
+- 👀 I’m interested in the difference between natural and programming languages, cultural evolution and pistachios. 
 - 🌱 I’m currently learning stuff about myself and the world. 
-- 💞️ I’m looking to collaborate on ML project on satellite and drone data in python.
+- 💞️ I’m looking to collaborate on ML projects on satellite, drone and biodiveristy data in python.
 - 📫 Reach me on twitter @philr0
 
 <!---
